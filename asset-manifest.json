@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ElseguristaPage/static/css/main.e8f28d4d.chunk.css",
+    "main.js": "/ElseguristaPage/static/js/main.8f050188.chunk.js",
+    "main.js.map": "/ElseguristaPage/static/js/main.8f050188.chunk.js.map",
+    "runtime-main.js": "/ElseguristaPage/static/js/runtime-main.c588bd63.js",
+    "runtime-main.js.map": "/ElseguristaPage/static/js/runtime-main.c588bd63.js.map",
+    "static/js/2.06f637c2.chunk.js": "/ElseguristaPage/static/js/2.06f637c2.chunk.js",
+    "static/js/2.06f637c2.chunk.js.map": "/ElseguristaPage/static/js/2.06f637c2.chunk.js.map",
+    "static/js/3.23770322.chunk.js": "/ElseguristaPage/static/js/3.23770322.chunk.js",
+    "static/js/3.23770322.chunk.js.map": "/ElseguristaPage/static/js/3.23770322.chunk.js.map",
+    "index.html": "/ElseguristaPage/index.html",
+    "static/css/main.e8f28d4d.chunk.css.map": "/ElseguristaPage/static/css/main.e8f28d4d.chunk.css.map",
+    "static/js/2.06f637c2.chunk.js.LICENSE.txt": "/ElseguristaPage/static/js/2.06f637c2.chunk.js.LICENSE.txt",
+    "static/media/elsegurista.711fbef2.jpeg": "/ElseguristaPage/static/media/elsegurista.711fbef2.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c588bd63.js",
+    "static/js/2.06f637c2.chunk.js",
+    "static/css/main.e8f28d4d.chunk.css",
+    "static/js/main.8f050188.chunk.js"
+  ]
+}
